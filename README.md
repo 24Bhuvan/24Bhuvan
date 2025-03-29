@@ -51,7 +51,7 @@ I am a passionate **🔬 Data Scientist** with expertise in **📈 Machine Learn
 ## 📫 **Connect with Me**
 - 💼 **GitHub:** [github.com/24Bhuvan](https://github.com/24Bhuvan)
 - 🔗 **LinkedIn:** [linkedin.com/in/bhuvan-ummidisetti-852479337](https://www.linkedin.com/in/bhuvan-ummidisetti-852479337/)
-- ✉️ **Email:** your.email@example.com
+- ✉️ **Email:** ubhuvan533@gmail.com
 
 ---
 
