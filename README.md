@@ -1,57 +1,95 @@
 # 👋 Hi, I'm Bhuvan Ummidisetti!
 
-### **🔬 Data Science & AI Enthusiast | 📊 Statistician | 🤖 ML, Deep Learning & NLP Practitioner | 🌟 Streamlit & Python Developer**
+### 📊 Data Analyst | 📈 Business Intelligence Enthusiast | 🐍 Python Developer
 
 ---
 
-## 🚀 **About Me**
+## 🚀 About Me
 
-I am a passionate **🔬 Data Scientist** with expertise in **📈 Machine Learning, 🧠 Deep Learning, and 🗣️ Natural Language Processing (NLP)**. I specialize in building intelligent applications using **Python, Streamlit, and AI-based models**. With a strong foundation in **statistics and data analysis**, I love solving complex real-world problems through data-driven insights. 
+I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights. I enjoy working with **PostgreSQL, Excel, Python, and Power BI** to clean, analyze, visualize, and interpret data for data-driven decision-making.
 
----
-
-## 🛠 **Tech Stack**
-
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### **Python Libraries**  
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-%23008080.svg?style=for-the-badge)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF6600.svg?style=for-the-badge)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-
-### **💡 Data Science & AI**  
-![Machine Learning](https://img.shields.io/badge/🧠-Machine%20Learning-%23FFAA00.svg?style=for-the-badge)  
-![Deep Learning](https://img.shields.io/badge/💡-Deep%20Learning-%234285F4.svg?style=for-the-badge)  
-![Natural Language Processing](https://img.shields.io/badge/🗣️-Natural%20Language%20Processing-%23009688.svg?style=for-the-badge)  
-![Data Manipulation](https://img.shields.io/badge/Data%20Manipulation-%234285F4.svg?style=for-the-badge)  
-![Analysis](https://img.shields.io/badge/Data%20Analysis-%23009688.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-
-### **Development Tools**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+My focus is on developing analytical solutions, building interactive dashboards, performing exploratory data analysis, and uncovering trends that help businesses make informed decisions.
 
 ---
 
-## 🔥 **Projects & Contributions**
-- **AQI Impact Analysis** – Analyzing air quality index effects on health.
-- **End-to-End NLP Chatbot** – A hybrid chatbot combining rule-based and NLP techniques.
-- **Streamlit Mini Apps (7+)** – Developed interactive web apps using Streamlit.
-- **Various GitHub & Academic Projects** – Check out my repositories for more! 🚀
+## 🛠 Tech Stack
+
+### Programming & Query Languages
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Data Analysis
+
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+
+### Data Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FF6600.svg?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-%23217346.svg?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 📫 **Connect with Me**
-- 💼 **GitHub:** [github.com/24Bhuvan](https://github.com/24Bhuvan)
-- 🔗 **LinkedIn:** [linkedin.com/in/bhuvan-ummidisetti-852479337](https://www.linkedin.com/in/bhuvan-ummidisetti-852479337/)
-- ✉️ **Email:** ubhuvan533@gmail.com
+## 📌 Core Skills
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* SQL Querying & Database Management
+* Dashboard Development
+* Data Visualization
+* Business Reporting
+* Statistical Analysis
+* KPI Tracking & Reporting
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!** ⭐
+## 🔥 Projects
 
+### Sales Dashboard Analysis
+
+* Built interactive Power BI dashboards to monitor sales performance.
+* Analyzed KPIs, revenue trends, and customer behavior.
+
+### SQL Data Exploration
+
+* Wrote complex PostgreSQL queries using joins, CTEs, window functions, and aggregations.
+* Generated business insights from large datasets.
+
+### Excel Analytics Projects
+
+* Created dynamic dashboards using Pivot Tables, Power Query, and advanced Excel formulas.
+* Automated reporting workflows.
+
+### Python Data Analysis
+
+* Performed data cleaning, transformation, and visualization using Pandas and Matplotlib.
+* Conducted exploratory data analysis on real-world datasets.
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/24Bhuvan
+* LinkedIn: https://www.linkedin.com/in/bhuvan-ummidisetti-852479337/
+* Email: [ubhuvan533@gmail.com](mailto:ubhuvan533@gmail.com)
+
+---
+
+### 🎯 Current Focus
+
+* Advanced PostgreSQL
+* Power BI Dashboard Development
+* Excel for Business Analytics
+* Python for Data Analysis
+* Building Portfolio Projects for Data Analyst Roles
